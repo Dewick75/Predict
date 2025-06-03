@@ -53,6 +53,12 @@ The model provides the following evaluation metrics:
 - **R² Score**: Indicates how well the model explains the variance in house prices
 - **Visualization**: Scatter plot showing correlation between actual and predicted values
 
+### Sample Output
+![Model Performance Metrics](Files/1.png)
+
+### Actual vs Predicted Prices Visualization
+![Scatter Plot - Actual vs Predicted](Files/2.png)
+
 ## 🔧 Code Structure
 
 The main script (`HousePredict.py`) follows these steps:
@@ -93,6 +99,8 @@ The project generates a scatter plot that helps visualize model performance:
 - **Ideal scenario**: Points would form a perfect diagonal line
 - **Model quality**: Closer points to the diagonal indicate better predictions
 
+As shown in the visualization above, the scatter plot provides insights into how well the model predictions align with actual house prices.
+
 ## 🔍 Model Insights
 
 The linear regression model assumes a linear relationship between:
@@ -129,6 +137,3 @@ For questions or suggestions about this house price prediction model, please fee
 *This project demonstrates fundamental machine learning concepts including data preprocessing, model training, evaluation, and visualization using Python's scientific computing stack.*
 
 
-image.png
-
-image.png
