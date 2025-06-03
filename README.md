@@ -127,3 +127,8 @@ For questions or suggestions about this house price prediction model, please fee
 ---
 
 *This project demonstrates fundamental machine learning concepts including data preprocessing, model training, evaluation, and visualization using Python's scientific computing stack.*
+
+
+image.png
+
+image.png
