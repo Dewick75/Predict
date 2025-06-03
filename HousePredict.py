@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 df = pd.read_csv('random_house_prices 2025 may assignment.csv')  
 
 
-# 2. Shape of dataset
+# 2. Shape of dataset find
 print("Shape:", df.shape)
 
 # 3. Preprocessing 
