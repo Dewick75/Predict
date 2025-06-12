@@ -5,7 +5,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 import matplotlib.pyplot as plt
 
 # 1. Load dataset here
-df = pd.read_csv('random_house_prices 2025 may assignment.csv')  
+df = pd.read_csv('random_house_prices.csv')  
 
 
 # 2. Shape of dataset find

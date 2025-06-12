@@ -76,7 +76,7 @@ The main script (`HousePredict.py`) follows these steps:
 
 ```python
 # Load and preprocess data
-df = pd.read_csv('random_house_prices 2025 may assignment.csv')
+df = pd.read_csv('random_house_prices.csv')
 df = df.dropna()
 
 # Prepare features and target
