@@ -16,7 +16,7 @@ This project implements a simple yet effective house price prediction model usin
 
 ## 📊 Dataset
 
-The project uses a dataset (`random_house_prices 2025 may assignment.csv`) containing:
+The project uses a dataset (`random_house_prices`) containing:
 - **Size**: House size in square feet
 - **Bedrooms**: Number of bedrooms
 - **Price**: House price (target variable)
@@ -39,7 +39,7 @@ pip install pandas scikit-learn matplotlib
 ### Installation
 
 1. Clone or download this repository
-2. Ensure the CSV file `random_house_prices 2025 may assignment.csv` is in the same directory
+2. Ensure the CSV file `random_house_prices` is in the same directory
 3. Run the prediction script:
 
 ```bash
