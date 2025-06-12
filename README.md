@@ -121,7 +121,7 @@ Potential enhancements for the model:
 ## 📄 Files Description
 
 - `HousePredict.py`: Main prediction script
-- `random_house_prices 2025 may assignment.csv`: Dataset with house features and prices
+- `random_house_prices.csv`: Dataset with house features and prices
 - `README.md`: Project documentation
 
 ## 🤝 Contributing
